@@ -1,5 +1,3 @@
-# yoradio-display-extension
-Additional display subsystem for YoRadio
 # YoRadio MAX7219 Display Extension (parallel display)
 
 Плагин добавляет **второй дисплей на матрицах MAX7219 (8x8, FC-16)** для YoRadio.
