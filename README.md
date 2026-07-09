@@ -42,7 +42,7 @@ MAX7219 → ESP32-S3:
 ## Установка в YoRadio
 1) Скопируй файл `MAX7219_plugin.ino` в папку проекта YoRadio **рядом с `YoRadio.ino`**.
 2) Скопируй папку `fonts/` в корень YoRadio (чтобы был путь `YoRadio/fonts/5bite_rus.h`).
-p.s. 5bite_rus.h -данный файл срздан и свободно распространяется его Автором bill-gilbert,
+                                                                                        5bite_rus.h -данный файл создан и свободно распространяется его Автором bill-gilbert,
 файл взят из открытого источника: https://4pda.to/forum/index.php?showtopic=1010378&view=findpost&p=119069902
 4) Открой `YoRadio.ino` в Arduino IDE и прошей как обычно.
 
